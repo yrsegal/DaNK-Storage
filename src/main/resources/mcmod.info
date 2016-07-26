@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "storage",
+    "name": "DaNK Storage",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "TheCodedOne",
+      "Prospector"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
